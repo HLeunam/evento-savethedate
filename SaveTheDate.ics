@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+
+VERSION:2.0
+
+PRODID:ics.py - http://git.io/lLljaA
+
+BEGIN:VEVENT
+
+DESCRIPTION:Reserve esta data para o evento da Sanofi.
+
+DTEND:20250820T210000Z
+
+LOCATION:Brasilia - DF
+
+DTSTART:20250820T193000Z
+
+SUMMARY:Save the Date - Sanofi
+
+UID:a0bfc1c2-89d0-473b-ba4f-f0c51fc9c4ab@a0bf.org
+
+END:VEVENT
+
+END:VCALENDAR
